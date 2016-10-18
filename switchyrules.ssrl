@@ -1,0 +1,14 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Date: 2016/10/18
+; Website: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+#BEGIN
+
+[wildcard]
+@*://*.joymii.com/*
+@*://*.github.com/*
+
+[regexp]
+^http:\/\/[^\/]+\/crossdomain\.xml
+
+#END
