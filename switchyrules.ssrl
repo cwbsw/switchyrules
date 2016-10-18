@@ -9,6 +9,6 @@
 @*://*.github.com/*
 
 [regexp]
-^http:\/\/[^\/]+\/crossdomain\.xml
+
 
 #END
